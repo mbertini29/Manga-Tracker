@@ -4,8 +4,10 @@ Manga Tracker è una applicazione che permette di salvare e visualizzare la list
 ## Esecuzione
 Per eseguire l'applicazione scaricare i file e da terminale eseguire la build con:
 - npm run build
+
 poi seguito da:
 - npm run preview
+
 ed "o" + enter
 
 per far partire l'applicazione su localhost.
