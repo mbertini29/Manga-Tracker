@@ -2,7 +2,7 @@
 
 Manga Tracker è una applicazione che permette di salvare e visualizzare la lista dei manga che stai leggendo.
 
-# # Esecuzione
+## Esecuzione
 
 Per eseguire l'applicazione scaricare i file e da terminale eseguire la build con:
 
@@ -16,7 +16,7 @@ ed "o" + enter
 
 per far partire l'applicazione su localhost.
 
-# # Utilizzo Applicazione
+## Utilizzo Applicazione
 
 Per accedere con un utente test usare le credenziali:
 
